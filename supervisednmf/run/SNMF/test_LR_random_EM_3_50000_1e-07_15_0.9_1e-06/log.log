@@ -1,0 +1,14 @@
+/var/spool/slurmd/job1755419/slurm_script: line 8: activate: No such file or directory
+['train', 'test', 'test1', 'test2']
+train (517, 256) (517,)
+test (32, 256) (32,)
+test1 (95, 256) (95,)
+test2 (240, 256) (240,)
+Early stopping at iteration 295
+Iteration 295,  loss: 0.004205 [0.004205, 0.000000]
+Early stopping at iteration 101
+Iteration 101,  loss: 0.000134 [0.000134, 0.000000]
+Early stopping at iteration 139
+Iteration 139,  loss: 0.000523 [0.000523, 0.000000]
+Early stopping at iteration 106
+Iteration 106,  loss: 0.001386 [0.001386, 0.000000]
