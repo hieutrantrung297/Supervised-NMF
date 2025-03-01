@@ -1,4 +1,4 @@
-# SupervisedNMF (NESTEDCV PIPELINE)
+# SupervisedNMF
 
 ## Description
 
